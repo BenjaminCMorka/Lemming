@@ -1,9 +1,9 @@
-  # Team Lemming Small Group project
+# Lemming Collaboratve Project
 
 ## Team members
 The members of the team are:
-- Vincent Ha
 - Benjamin Morka
+- Vincent Ha
 - Issa Abdi
 - Nithursan Muraleetharan
 - Mohammed Ahmed
